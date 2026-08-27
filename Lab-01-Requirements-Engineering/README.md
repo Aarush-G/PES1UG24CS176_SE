@@ -63,7 +63,7 @@ The flow specification contains:
 | Requirements Table   | [`Requirements_Table.pdf`](./Requirements/Requirements_Table.pdf)              |
 | UML Use-Case Diagram | [`Use_Case_Diagram.pdf`](./UML/Use_case_diagram.pdf)                           |
 | Editable UML Diagram | [`Use_Case_Diagram.drawio`](./UML/Use_case_diagram.drawio)                     |
-| Use-Case Flow        | [`UC-02_Daily_Domain_Audit.pdf`](./Use-Case_Flow/UseCaseFlowSpecification.pdf) |
+| Use-Case Flow        | [`UC-02_Daily_Domain_Audit.pdf`](./Use-CaseFlow/UseCaseFlowSpecification.pdf)  |
 
 ## Tools Used
 
