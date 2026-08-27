@@ -50,4 +50,4 @@ Lab 01 covers:
 
 * GitHub
 * Draw.io / diagrams.net
-* Microsoft Word
+* Google Docs
