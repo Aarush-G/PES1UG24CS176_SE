@@ -60,7 +60,7 @@ The flow specification contains:
 
 | Deliverable          | File                                                                           |
 | -------------------- | ------------------------------------------------------------------------------ |
-| Requirements Table   | [`Requirements_Table.docx`](./Requirements/Requirements_Table.docx)            |
+| Requirements Table   | [`Requirements_Table.pdf`](./Requirements/Requirements_Table.pdf)              |
 | UML Use-Case Diagram | [`Use_Case_Diagram.pdf`](./UML/Use_Case_Diagram.pdf)                           |
 | Editable UML Diagram | [`Use_Case_Diagram.drawio`](./UML/Use_Case_Diagram.drawio)                     |
 | Use-Case Flow        | [`UC-02_Daily_Domain_Audit.pdf`](./Use-Case-Flow/UC-02_Daily_Domain_Audit.pdf) |
