@@ -7,7 +7,7 @@ This repository contains the laboratory work completed as part of the **Software
 | Lab | Topic | Status |
 | --- | --- | --- |
 | [Lab 01](./Lab-01-Requirements-Engineering/) | Requirements Engineering & UML Use-Case Modelling | Completed |
-| Lab 02 | — | Upcoming |
+| Lab 02 | — | Completed |
 | [Lab 03](./Lab-03-Component-Modelling/) | Component Modelling & Architectural Pattern Selection | Completed |
 | Lab 04 | — | Upcoming |
 
