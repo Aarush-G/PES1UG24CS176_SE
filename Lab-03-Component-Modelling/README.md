@@ -23,12 +23,3 @@
 
 The component diagram uses formal UML provided-interface (ball/lollipop) and required-interface (socket) notation with assembly connectors.
 
-## Lab Requirements Covered
-
-- At least 5 components
-- At least 4 interfaces
-- Provided and required interfaces
-- Component dependencies and interactions
-- Architectural selection and justification
-- Security advantage
-- Performance benefit
