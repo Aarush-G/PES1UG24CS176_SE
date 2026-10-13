@@ -4,31 +4,20 @@ This repository contains the laboratory work completed as part of the **Software
 
 ## Labs
 
-| Lab | Topic | Status |
-| --- | --- | --- |
-| [Lab 01](./Lab-01-Requirements-Engineering/) | Requirements Engineering & UML Use-Case Modelling | Completed |
-| Lab 02 | — | Completed |
-| [Lab 03](./Lab-03-Component-Modelling/) | Component Modelling & Architectural Pattern Selection | Completed |
-| Lab 04 | — | Upcoming |
+| Lab | Topic | Repository / Location | Status |
+| --- | --- | --- | --- |
+| [Lab 01](./Lab-01-Requirements-Engineering/) | Requirements Engineering & UML Use-Case Modelling | This repository | Completed |
+| Lab 02 | — | — | Completed |
+| [Lab 03](./Lab-03-Component-Modelling/) | Component Modelling & Architectural Pattern Selection | This repository | Completed |
+| [Lab 04](https://github.com/Aarush-G/PES1UG24CS176-AimTrainer) | Target Aim Trainer (Pygame) | Separate repository | Completed |
 
 ## Repository Structure
 
 ```text
-Software-Engineering-Labs/
-│
+PES1UG24CS176_SE/
 ├── README.md
-│
 ├── Lab-01-Requirements-Engineering/
-│   ├── README.md
-│   ├── Requirements/
-│   ├── UML/
-│   └── Use-Case_Flow/
-│
-├── Lab-02/
-│
-├── Lab-03-Component-Modelling/
-│   ├── Component Diagram.png
-│   ├── Justification.docx
-│   └── README.md
-│
-└── Lab-04/
+└── Lab-03-Component-Modelling/
+```
+
+**Lab 04 source code:** [PES1UG24CS176-AimTrainer](https://github.com/Aarush-G/PES1UG24CS176-AimTrainer)
