@@ -10,6 +10,8 @@ This repository contains the laboratory work completed as part of the **Software
 | [Lab 02](./Lab-02/) | Agile Backlog Creation & Sprint Simulation in Jira | This repository | Completed |
 | [Lab 03](./Lab-03-Component-Modelling/) | Component Modelling & Architectural Pattern Selection | This repository | Completed |
 | [Lab 04](https://github.com/Aarush-G/PES1UG24CS176-AimTrainer) | Target Aim Trainer using Pygame | Separate repository | Completed |
+| [Lab 05](https://github.com/Aarush-G/Lab5_SE_PES1UG24CS176) | Static Code Analysis using Pylint, Bandit & Flake8 | Separate repository | Completed |
+
 
 ## Repository Structure
 
@@ -60,12 +62,22 @@ This lab involves debugging and improving a graphical aim trainer developed usin
 
 [View Lab 04 Repository](https://github.com/Aarush-G/PES1UG24CS176-AimTrainer)
 
+### Lab 05: Static Code Analysis
+
+This lab focuses on improving Python code quality, security, and formatting using Pylint, Bandit, and Flake8. The implementation covers identifying and fixing security vulnerabilities, code-quality issues, and style violations in an e-commerce cart system.
+
+[View Lab 05 Repository](https://github.com/Aarush-G/Lab5_SE_PES1UG24CS176)
+
+
 ## Technologies and Tools
 
 - **Jira** — Agile backlog management and sprint simulation
 - **UML** — Requirements and software modelling
 - **Python and Pygame** — Interactive game development
 - **Git and GitHub** — Version control and repository management
+- **Pylint** — Python code-quality analysis
+- **Bandit** — Python security analysis
+- **Flake8** — Python style and formatting checks
 
 ---
 
