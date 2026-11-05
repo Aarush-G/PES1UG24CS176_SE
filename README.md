@@ -78,6 +78,12 @@ This lab focuses on improving Python code quality, security, and formatting usin
 
 [View Lab 05 Repository](https://github.com/Aarush-G/Lab5_SE_PES1UG24CS176)
 
+### Lab 06: Code and Branch Coverage Analysis
+
+This lab focuses on analysing the code coverage and branch coverage of a Fuel Station application using Python's `coverage` and `pytest` tools. It involves writing additional test cases to achieve at least 90% code coverage and branch coverage, verifying the results, and documenting the coverage analysis through terminal screenshots.
+
+[View Lab 06](./Lab-06-Code-and-Branch-Coverage/)
+
 
 ## Technologies and Tools
 
