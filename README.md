@@ -22,19 +22,28 @@ PES1UG24CS176_SE/
 ├── README.md
 │
 ├── Lab-01-Requirements-Engineering/
-│   ├── README.md
 │   ├── Requirements/
 │   ├── UML/
-│   └── Use-Case_Flow/
+│   ├── Use-Case_Flow/
+│   └── README.md
 │
 ├── Lab-02/
-│   ├── README.md
-│   └── PES1UG24CS176.pdf
+│   ├── PES1UG24CS176.pdf
+│   └── README.md
 │
-└── Lab-03-Component-Modelling/
-    ├── Component Diagram.png
-    ├── Justification.docx
-    └── README.md
+├── Lab-03-Component-Modelling/
+│   ├── Component Diagram.png
+│   ├── Justification.docx
+│   └── README.md
+│
+└── Lab-06-Code-and-Branch-Coverage/
+    ├── BranchCoverageTest_PES1UG24CS176_application.py
+    ├── BranchCoverage_Screenshot.png
+    ├── CodeCoverageTest_PES1UG24CS176_application.py
+    ├── CodeCoverage_Screenshot.png
+    ├── README.md
+    ├── fuel_station.py
+    └── test_fuel_station.py
 ```
 
 ## Lab Details
