@@ -11,6 +11,7 @@ This repository contains the laboratory work completed as part of the **Software
 | [Lab 03](./Lab-03-Component-Modelling/) | Component Modelling & Architectural Pattern Selection | This repository | Completed |
 | [Lab 04](https://github.com/Aarush-G/PES1UG24CS176-AimTrainer) | Target Aim Trainer using Pygame | Separate repository | Completed |
 | [Lab 05](https://github.com/Aarush-G/Lab5_SE_PES1UG24CS176) | Static Code Analysis using Pylint, Bandit & Flake8 | Separate repository | Completed |
+| [Lab 06](./Lab-06-Code-and-Branch-Coverage/) | Code and Branch Coverage | This repository | Completed |
 
 
 ## Repository Structure
