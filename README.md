@@ -12,6 +12,7 @@ This repository contains the laboratory work completed as part of the **Software
 | [Lab 04](https://github.com/Aarush-G/PES1UG24CS176-AimTrainer) | Target Aim Trainer using Pygame | Separate repository | Completed |
 | [Lab 05](https://github.com/Aarush-G/Lab5_SE_PES1UG24CS176) | Static Code Analysis using Pylint, Bandit & Flake8 | Separate repository | Completed |
 | [Lab 06](./Lab-06-Code-and-Branch-Coverage/) | Code and Branch Coverage | This repository | Completed |
+| [Lab 07](./Lab-07-Fuzz-Testing/) | Fuzz Testing using Hypothesis and Pytest | This repository | Completed |
 
 
 ## Repository Structure
@@ -44,6 +45,15 @@ PES1UG24CS176_SE/
     ├── README.md
     ├── fuel_station.py
     └── test_fuel_station.py
+├── Lab-07-Fuzz-Testing/
+│   ├── README.md
+│   ├── fuel_station.py
+│   ├── test_fuel_station.py
+│   └── screenshots/
+│       ├── Original_Output.png
+│       ├── Fixed_Output.png
+│       ├── Fuzz_Test_Failures.png
+│       └── Fuzz_Test_Passing.png
 ```
 
 ## Lab Details
@@ -84,6 +94,12 @@ This lab focuses on analysing the code coverage and branch coverage of a Fuel St
 
 [View Lab 06](./Lab-06-Code-and-Branch-Coverage/)
 
+### Lab 07: Fuzz Testing
+
+This lab focuses on testing a Fuel Station application using fuzz testing with Python's Hypothesis library and Pytest. It involves generating random inputs to identify cases that cause the application to crash, fixing the issues, and verifying that the application handles unexpected inputs without crashing.
+
+[View Lab 07](./Lab-07-Fuzz-Testing/)
+
 
 ## Technologies and Tools
 
@@ -94,6 +110,8 @@ This lab focuses on analysing the code coverage and branch coverage of a Fuel St
 - **Pylint** — Python code-quality analysis
 - **Bandit** — Python security analysis
 - **Flake8** — Python style and formatting checks
+- **Hypothesis** — Property-based and fuzz testing
+- **Pytest** — Python test execution and validation
 
 ---
 
