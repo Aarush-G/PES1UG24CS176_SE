@@ -1,4 +1,7 @@
 
+import math
+
+
 def parse_purchase(text):
     try:
         if not isinstance(text, str):
@@ -12,7 +15,7 @@ def parse_purchase(text):
         grade = grade.strip()
         litres = float(litres)
 
-        if not grade or litres < 0:
+        if not grade or not math.isfinite(litres) or litres < 0:
             return None
 
         return grade.title(), litres
@@ -50,7 +53,9 @@ def payable_bill(text):
         bill = float(bill)
         discount = float(discount)
 
-        if bill < 0 or discount < 0:
+        if (not math.isfinite(bill) or
+                not math.isfinite(discount) or
+                bill < 0 or discount < 0):
             return None
 
         total = bill * 1.18 - discount
