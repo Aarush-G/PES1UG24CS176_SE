@@ -38,22 +38,22 @@ PES1UG24CS176_SE/
 │   └── README.md
 │
 └── Lab-06-Code-and-Branch-Coverage/
-    ├── BranchCoverageTest_PES1UG24CS176_application.py
-    ├── BranchCoverage_Screenshot.png
-    ├── CodeCoverageTest_PES1UG24CS176_application.py
-    ├── CodeCoverage_Screenshot.png
-    ├── README.md
-    ├── fuel_station.py
-    └── test_fuel_station.py
+|    ├── BranchCoverageTest_PES1UG24CS176_application.py
+|    ├── BranchCoverage_Screenshot.png
+|    ├── CodeCoverageTest_PES1UG24CS176_application.py
+|    ├── CodeCoverage_Screenshot.png
+|    ├── README.md
+|    ├── fuel_station.py
+|    └── test_fuel_station.py
 ├── Lab-07-Fuzz-Testing/
-│   ├── README.md
-│   ├── fuel_station.py
-│   ├── test_fuel_station.py
-│   └── screenshots/
-│       ├── Original_Output.png
-│       ├── Fixed_Output.png
-│       ├── Fuzz_Test_Failures.png
-│       └── Fuzz_Test_Passing.png
+|  ├── README.md
+|  ├── fuel_station.py
+|  ├── test_fuel_station.py
+|  └── screenshots/
+|      ├── Original_Output.png
+|      ├── Fixed_Output.png
+|      ├── Fuzz_Test_Failures.png
+|      └── Fuzz_Test_Passing.png
 ```
 
 ## Lab Details
